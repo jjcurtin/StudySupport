@@ -1,0 +1,13 @@
+Package: StudySupport
+Type: Package
+Title: Tools for Tracking Study Recruiting/Screening/Enrollment and API access to research tools
+Version: 3.5.1
+Date: 2020-02-27
+Author: John Curtin <jjcurtin@wisc.edu>
+Maintainer: John Curtin <jjcurtin@wisc.edu>
+Description: Support to Extend Qualtrics for Tracking Study Recruiting, Screening, and Enrollment.
+License: GPL (>= 2)
+Imports: lmSupport, grDevices, lubridate, utils, stringr, httr
+LazyLoad: yes
+URL: http://dionysus.psych.wisc.edu/
+NeedsCompilation: no
